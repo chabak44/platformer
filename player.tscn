@@ -4,8 +4,8 @@
 [ext_resource path="res://player.gd" type="Script" id=2]
 
 [sub_resource type="CapsuleShape2D" id=10]
-radius = 6.0
-height = 0.0
+radius = 5.0
+height = 5.0
 
 [sub_resource type="Animation" id=8]
 resource_name = "Attack"
